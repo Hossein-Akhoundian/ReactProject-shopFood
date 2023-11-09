@@ -1,0 +1,21 @@
+body{
+  background-color: #111111;
+  color: #fafafa;
+  font-family: 'Vazir';
+}
+
+.card-bg{
+  background-color: #1a1c1e;
+}
+
+/*ادامه*/
+#bt1{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.EndLogin{
+  color: #fafafa;
+}
